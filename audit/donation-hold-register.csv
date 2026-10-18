@@ -1,0 +1,6 @@
+hold_review_date,lot_id,pantry,item,received_date,temperature_c,best_by,temp_status,shelf_status,hold_reason
+2047-03-15,NL-31,Alder,canned,2047-03-13,8,2047-03-19,OK,SHORT,SHELF_LIFE
+2047-03-16,NL-03,Cedar,dairy,2047-03-11,9,2047-03-20,HIGH,OK,TEMPERATURE
+2047-03-16,NL-14,Cedar,frozen,2047-03-08,-20,2047-03-14,LOW,SHORT,TEMPERATURE_AND_SHELF_LIFE
+2047-03-17,NL-17,Harbor,canned,2047-03-10,3,2047-03-18,OK,SHORT,SHELF_LIFE
+2047-03-17,NL-22,Harbor,produce,2047-03-12,0,2047-03-16,LOW,SHORT,TEMPERATURE_AND_SHELF_LIFE
