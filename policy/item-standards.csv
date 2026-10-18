@@ -1,0 +1,6 @@
+item,min_temp_c,max_temp_c,min_days_remaining
+canned,2,8,5
+dairy,1,5,4
+produce,1,7,3
+grains,0,10,10
+frozen,-18,-10,0

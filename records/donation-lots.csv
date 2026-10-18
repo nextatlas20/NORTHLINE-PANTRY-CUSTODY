@@ -1,0 +1,8 @@
+lot_id,pantry,item,received_date,temperature_c,best_by
+NL-17,Harbor,canned,2047-03-10,3,2047-03-18
+NL-03,Cedar,dairy,2047-03-11,9,2047-03-20
+NL-22,Harbor,produce,2047-03-12,0,2047-03-16
+NL-08,Alder,grains,2047-03-09,4,2047-03-30
+NL-14,Cedar,frozen,2047-03-08,-20,2047-03-14
+NL-31,Alder,canned,2047-03-13,8,2047-03-19
+NL-19,Harbor,dairy,2047-03-10,1,2047-03-20
